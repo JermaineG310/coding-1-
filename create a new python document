@@ -52,3 +52,5 @@ Integer is just another way of saying number.
 0 # represents false
 
 1 # represents true
+print (name)
+# the print function is for passing on data from the program
