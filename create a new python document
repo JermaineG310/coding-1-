@@ -1,56 +1,37 @@
 
-
-
-
-
-# text behind the hashtag is great for
-# writing notes to yourself from other people
-
-
-
-
-
-
-
-
-
-
-"we create strings by first clicking the"
-"quote within the keyboard the typing the text.
-
-
-"strings can contain any keys on your keyboard"
-
-
-"strings are used mostly for text based data like message, comments etc.
-
-
-
-# Integer Data type.
-Integer is just another way of saying number.  
-
-# we dont need to wrap numbers up in quote.
-# we can just write them normally. 
-12
-123
-3488
-0
-# when we have a number wuth a decimal it is considerd a float data type. 
-12.03
-23.56
-
-4+4 
-3/1
-
-# Boolean Data type
-# A data representation of true and false. 
-
-
-
-
-
 0 # represents false
 
-1 # represents true
-print (name)
+1 # represents true 
 # the print function is for passing on data from the program
+
+# Artithmatic operator
+# Getting the total checkout amount for the cart
+Bookbag= 20.00
+pens= 10.00
+notebooke= 10.00 
+CoffeMug= 20.00 
+
+total = Bookbag + pens + notebooks + CoffeMug
+print(total)
+
+# 2. whhich python operator would you use if you wanted to 
+# determine if a user is old enough to 
+# purchase a video game
+
+
+# Comparison operator 
+# checking if some is old enough to buy game
+age= 17
+ageToBuy= 17 
+
+print(age > ageToBuy)
+
+# Logical operator 
+# we need to find out if its true the student is 12 And has taken
+#
+# Coding class  
+
+stundentGrade = 11 
+studetHasTakenCode = True
+
+print(studentGrade == 12 or studetHasTakenCode== True)
